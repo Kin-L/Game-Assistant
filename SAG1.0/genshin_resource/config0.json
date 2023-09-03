@@ -1,0 +1,23 @@
+{
+ "时间1": [
+  false,
+  946828800.0,
+  "配置1",
+  false
+ ],
+ "时间2": [
+  false,
+  947433600.0,
+  "配置1",
+  false
+ ],
+ "时间3": [
+  false,
+  947433600.0,
+  "配置1",
+  false
+ ],
+ "服务器": 0,
+ "游戏启动路径": "D:\\Program Files\\Genshin Impact\\Genshin Impact Game\\YuanShen.exe",
+ "配置文件": "配置1"
+}
