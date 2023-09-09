@@ -1,0 +1,48 @@
+{
+ "启动游戏": true,
+ "切换标准队伍": true,
+ "探索派遣": true,
+ "使用参量质变仪": true,
+ "捕捉晶蝶": false,
+ "合成浓缩树脂": true,
+ "领取尘歌壶": true,
+ "采集木材": false,
+ "完成后关闭游戏": false,
+ "派遣区域1": 0,
+ "派遣材料1": 0,
+ "派遣区域2": 0,
+ "派遣材料2": 1,
+ "派遣区域3": 1,
+ "派遣材料3": 0,
+ "派遣区域4": 2,
+ "派遣材料4": 0,
+ "派遣区域5": 3,
+ "派遣材料5": 0,
+ "使用材料1": "genshin_resource\\picture\\develop_tools\\bugle1.png",
+ "使用材料2": "genshin_resource\\picture\\develop_tools\\bugle2.png",
+ "使用材料3": "genshin_resource\\picture\\develop_tools\\bugle3.png",
+ "使用材料4": "",
+ "使用材料5": "",
+ "晶蝶": [
+  true,
+  true,
+  true,
+  true,
+  false,
+  false
+ ],
+ "砍树循环": "1",
+ "砍树1": [
+  false,
+  false,
+  false,
+  false,
+  false
+ ],
+ "砍树2": [
+  false
+ ],
+ "砍树3": [
+  false
+ ]
+}
