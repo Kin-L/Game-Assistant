@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/">
+    <file>MAK.ico</file>
+  </qresource>
+</RCC>
